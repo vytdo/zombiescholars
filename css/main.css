@@ -1,0 +1,13 @@
+/* File: css/main.css */
+
+body {
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #000;
+}
+
+#gameCanvas {
+  border: 2px solid #fff;
+}
